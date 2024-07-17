@@ -1,4 +1,5 @@
-# flet_chat
+# flet_chat_room
+
 A chat room app made with Flet, a Python Framework.
 
 Flet, as its website says, it's a framework for those who don't want to "deal" with frontend development.
